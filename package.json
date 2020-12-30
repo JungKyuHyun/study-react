@@ -1,0 +1,27 @@
+{
+  "name": "study-redux",
+  "version": "1.0.0",
+  "description": "Redux로 구현하는 아키텍처와 리스크관리.",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d build -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JungKyuHyun/study-redux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JungKyuHyun/study-redux/issues"
+  },
+  "homepage": "https://github.com/JungKyuHyun/study-redux#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/plugin-proposal-private-methods": "^7.12.1",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10"
+  }
+}
